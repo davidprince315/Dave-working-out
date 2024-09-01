@@ -1,2 +1,2 @@
-name = input("What is your name? ")
-print("Hi " + name)
+course = 'Python Course for "Beginners"'
+print(course)
