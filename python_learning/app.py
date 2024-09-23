@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 2. You have a list of your favourite marvel super heros
 # heros=['spider man','thor','hulk','iron man','captain america']
 # Using this list
@@ -22,3 +22,4 @@ print(heros)
 # 5. Sort the list in alphabetical order
 heros.sort()
 print(heros)
+  
